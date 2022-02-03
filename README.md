@@ -27,12 +27,8 @@ My name is Kamila Król. I graduated from Univeristy of Wrocław in 2011.I studi
   - testerzy.pl
   - testuj.pl
   - wyszkolewas.com.pl
-# My projects/My bug reports
-  - Group project - leader - testing site [allegro.pl](https://allegro.pl/)
-     - [Tablica trello.com](https://trello.com/b/fZE6cidI/allegropl)
-  - Individual project - testing site [zara.com](https://www.zara.com/pl/)
-     - [Report](https://drive.google.com/file/d/1AlygpsNK0Og1H7g8RRQjQs1e9LRotXYw/view)
-     - [Test cases](https://drive.google.com/file/d/1Uq7kXvy8JQsqhCOky5Yaqh4KbcbLyH9x/view)
-     - [Test cases - regression testing](https://drive.google.com/file/d/1R5v7_HHsPG_CWcFRJJl0OmJ2qRvBJSNE/view)
-     - [Mind map](https://drive.google.com/file/d/1K8TamEa_IVchmcMzCX_bHoO0gVo22cym/view)
-     - [Automated Postman tests](https://drive.google.com/file/d/15kAl0pI02FJYXOYu_KyIKN2XcvBK3Cmm/view)
+# My projects/ My bug reports
+ Project - testing site [legimi.pl](https://www.legimi.pl/)
+     - [Test Report/Test Case/TestLink](https://drive.google.com/file/d/1mWLOrGurrV6LCEBrEKY9DL_dH_2he5K2/view)
+     - [Portfolio.testproject-deep](https://drive.google.com/file/d/1ysUoa6grX69ZQ0HmKPLBwkxbJr6XGb8j/view)
+    
