@@ -15,7 +15,7 @@ My name is Kamila Król. I graduated from Univeristy of Wrocław in 2011.I studi
   - SQL query
   
 # Courses
-  - [szkolenie indywidualne na testera manualnego - Waldemar Szafraniec testy i szkolenia] (https://wyszkolewas.com.pl)
+  - [szkolenie indywidualne na testera manualnego - Waldemar Szafraniec testy i szkolenia](https://wyszkolewas.com.pl)
   
 # My projects/ My bug reports
  Project - testing site [legimi.pl](https://www.legimi.pl/)
