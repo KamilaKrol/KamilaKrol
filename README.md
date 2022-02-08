@@ -22,4 +22,5 @@ My name is Kamila Król. I graduated from Univeristy of Wrocław in 2011.I studi
  - [Test Report/Test Case/TestLink](https://drive.google.com/file/d/1mWLOrGurrV6LCEBrEKY9DL_dH_2he5K2/view)
  - [Portfolio.testproject-deep](https://drive.google.com/file/d/1ysUoa6grX69ZQ0HmKPLBwkxbJr6XGb8j/view)
  - [resultsTCFlat_Portfolio_Portfolio](https://docs.google.com/spreadsheets/d/1laNmOCFTA0WAvLpGDmf4-vbkf4Q0IUxl/edit#gid=760841383)
+ - [Jira-bug reporting](https://drive.google.com/file/d/1mP7JsnbdcOD_SOHmrIHJ7DJP4ug3uY05/view?usp=sharing)
     
