@@ -6,6 +6,9 @@ My name is Kamila Król. I graduated from Univeristy of Wrocław in 2011.I studi
 # Tools
   - [Jira](https://www.atlassian.com/software/jira)
   - [TestLink](https://https://www.testlink.org/)
+  - [ShareX](https://getsharex.com/)
+  - [PicPick](https://picpick.app/pl/)
+  - [Exctension Chrome Web Store: PerfectPixel, ColorZilla, WhatFont, GoFullPage](https://chrome.google.com/webstore/category/extensions?hl=en)
   
 # Tech skills
   - Chrome DevTools
